@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'wordpress' );
 
 /** Database username */
-define( 'DB_USER', 'b9b68ef3329c03' );
+define( 'DB_USER', 'b9369f6f0febcf' );
 
 /** Database password */
-define( 'DB_PASSWORD', '57ff9635' );
+define( 'DB_PASSWORD', '68011a56' );
 
 /** Database hostname */
 define( 'DB_HOST', 'us-cdbr-east-06.cleardb.net' );
